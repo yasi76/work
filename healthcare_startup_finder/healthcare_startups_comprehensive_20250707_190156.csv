@@ -1,0 +1,227 @@
+name,website,country,location,category,description
+Biomedical International,https://www.biomedical-international.com/,Austria,Vienna,Medical Devices,Innovative medical devices
+Cogvis,https://www.cogvis.com/,Austria,Vienna,Medical Imaging,Real-time medical imaging
+Contextflow,https://contextflow.com/,Austria,Vienna,AI Radiology,3D medical image search
+Diagnosia,https://www.diagnosia.com/,Austria,Vienna,Clinical Decision Support,Medical reference app
+ImageBiopsy Lab,https://www.imagebiopsylab.com/,Austria,Vienna,AI MSK Analysis,AI for musculoskeletal analysis
+KML Vision,https://www.kmlvision.com/,Austria,Graz,AI Pathology,AI-powered pathology
+Medicus AI,https://www.medicus.ai/,Austria,Vienna,AI Health Assistant,AI health companion
+Scarletred,https://www.scarletred.com/,Austria,Vienna,Wound Care,Digital wound documentation
+Symptoma,https://www.symptoma.com/,Austria,Vienna,AI Diagnosis,AI symptom checker
+mySugr,https://www.mysugr.com/,Austria,Vienna,Diabetes Management,Diabetes management app
+Andaman7,https://www.andaman7.com/,Belgium,Brussels,PHR Platform,Personal health records
+Byteflies,https://www.byteflies.com/,Belgium,Antwerp,Wearable Analytics,Medical-grade wearables
+FibriCheck,https://www.fibricheck.com/,Belgium,Hasselt,Heart Rhythm,Smartphone heart rhythm app
+Icometrix,https://icometrix.com/,Belgium,Leuven,AI Neurology,AI for brain MRI analysis
+Lynxcare,https://www.lynxcare.io/,Belgium,Leuven,Clinical Data,Clinical data extraction
+MintT,https://www.mintt.care/,Belgium,Ghent,Physical Therapy,Digital physical therapy
+MyHealthbox,https://www.myhealthbox.eu/,Belgium,Brussels,Medication Info,Digital medication leaflets
+Ontoforce,https://www.ontoforce.com/,Belgium,Ghent,Data Integration,Life sciences data platform
+Radiomics,https://www.radiomics.bio/,Belgium,Liège,Medical Imaging AI,Radiomics analysis platform
+UgenTec,https://www.ugentec.com/,Belgium,Hasselt,Molecular Diagnostics,PCR analysis software
+Carebot,https://www.carebot.com/,Czech Republic,Prague,Healthcare Chatbots,AI healthcare assistants
+Cyrkl,https://cyrkl.com/,Czech Republic,Prague,Healthcare Waste,Medical waste management
+DocPlanner,https://www.znamylekar.cz/,Czech Republic,Prague,Appointment Booking,Doctor appointment platform
+Kardi AI,https://kardi.ai/,Czech Republic,Prague,AI Cardiology,AI-powered ECG analysis
+Loono,https://www.loono.cz/,Czech Republic,Prague,Preventive Health,Prevention education platform
+MDchat,https://mdchat.cz/,Czech Republic,Prague,Medical Communication,Secure medical messaging
+MEDDI,https://www.meddi.com/,Czech Republic,Prague,Medical Records,Digital health records
+Medicalc,https://www.medicalc.cz/,Czech Republic,Prague,Medical Calculators,Medical calculation tools
+Preventicus,https://www.preventicus.com/,Czech Republic,Prague,Heart Health,Cardiac monitoring app
+Surgeo,https://surgeo.cz/,Czech Republic,Prague,Surgical Planning,3D surgical planning
+BrainCapture,https://braincapture.com/,Denmark,Copenhagen,Neurology,EEG monitoring for epilepsy
+Corti,https://www.corti.ai/,Denmark,Copenhagen,AI Emergency Medicine,AI for emergency calls
+Dignio,https://dignio.com/,Denmark,Copenhagen,Remote Care,Remote patient care platform
+Enversion,https://www.enversion.dk/,Denmark,Copenhagen,Telehealth,Telehealth platform
+GameChange,https://www.gamechange.dk/,Denmark,Copenhagen,Digital Therapeutics,Therapeutic gaming
+Monsenso,https://www.monsenso.com/,Denmark,Copenhagen,Mental Health,Digital mental health solutions
+OpenTeleHealth,https://www.opentelehealth.com/,Denmark,Copenhagen,Telehealth Infrastructure,Open source telehealth
+RadioBotics,https://www.radiobotics.com/,Denmark,Copenhagen,AI Radiology,AI for musculoskeletal radiology
+Vital Beats,https://www.vitalbeats.com/,Denmark,Copenhagen,Cardiac Monitoring,Personal ECG monitoring
+Ward 24/7,https://ward247.net/,Denmark,Copenhagen,Patient Monitoring,Continuous patient monitoring
+Antegenes,https://www.antegenes.com/,Estonia,Tallinn,Precision Medicine,Personalized cancer treatment
+Cognuse,https://cognuse.com/,Estonia,Tallinn,Mental Health,Cognitive behavioral therapy app
+Dermtest,https://dermtest.com/,Estonia,Tallinn,AI Dermatology,Skin condition analysis app
+Get Better,https://getbetter.ee/,Estonia,Tallinn,Digital Therapeutics,Digital health programs
+MedIT,https://www.medit.online/,Estonia,Tallinn,Healthcare IT,Digital health infrastructure
+Salu,https://salu.ee/,Estonia,Tallinn,Digital Clinic,Digital primary care
+Sport ID,https://www.sportid.com/,Estonia,Tallinn,Sports Health,Sports performance tracking
+Triumf Health,https://www.triumf.co/,Estonia,Tallinn,Children's Mental Health,Mental health games for kids
+Velmio,https://velmio.com/,Estonia,Tallinn,Health Analytics,Healthcare data analytics
+Viveo Health,https://viveohealth.com/,Estonia,Tartu,Elderly Care,Smart elderly care solutions
+Blueprint Genetics,https://blueprintgenetics.com/,Finland,Helsinki,Genetic Testing,Genetic diagnostics
+BuddyCare,https://www.buddyhealthcare.com/,Finland,Helsinki,Surgical Care,Digital surgery pathways
+Combinostics,https://www.combinostics.com/,Finland,Tampere,AI Neurology,AI for brain disease diagnosis
+Disior,https://www.disior.com/,Finland,Helsinki,3D Orthopedics,3D analysis for orthopedics
+Etsimo Healthcare,https://www.etsimo.com/,Finland,Turku,Clinical Trials,Digital clinical trials
+Kaiku Health,https://kaikuhealth.com/,Finland,Helsinki,Patient Monitoring,Digital patient monitoring
+Meru Health,https://www.meruhealth.com/,Finland,Helsinki,Mental Health,Digital mental health clinic
+Nightingale Health,https://nightingalehealth.com/,Finland,Helsinki,Blood Analysis,Blood biomarker platform
+Oura,https://ouraring.com/,Finland,Oulu,Health Wearables,Smart ring for health tracking
+Physitrack,https://www.physitrack.com/,Finland,Helsinki,Digital PT,Digital physiotherapy platform
+360 Medics,https://www.360medics.com/,France,Montpellier,Medical Education,Medical knowledge platform
+Alan,https://alan.com/,France,Paris,Health Insurance,Digital health insurance
+Amelia,https://www.amelia.ai/,France,Paris,Virtual Health Assistant,AI virtual health assistant
+Bioserenity,https://www.bioserenity.com/,France,Paris,Neurological Monitoring,Connected medical devices for neurology
+Cardiologs,https://www.cardiologs.com/,France,Paris,AI Cardiology,AI-powered ECG analysis
+Dental Monitoring,https://dental-monitoring.com/,France,Paris,Dental Tech,AI-powered orthodontic monitoring
+Doctolib,https://www.doctolib.fr/,France,Paris,Appointment Booking,Medical appointment booking platform
+Gleamer,https://www.gleamer.ai/,France,Paris,AI Radiology,AI for medical imaging
+Implicity,https://www.implicity.com/,France,Paris,Remote Monitoring,Remote cardiac monitoring platform
+Lifen,https://www.lifen.fr/,France,Paris,Healthcare Communication,Medical collaboration platform
+Owkin,https://www.owkin.com/,France,Paris,AI Drug Discovery,AI for medical research
+Therapixel,https://www.therapixel.com/,France,Paris,AI Radiology,AI for breast cancer screening
+Tilak Healthcare,https://www.tilakhealthcare.com/,France,Paris,Digital Therapeutics,Medical video games for chronic diseases
+Voluntis,https://www.voluntis.com/,France,Paris,Digital Therapeutics,Digital companion programs
+Withings,https://www.withings.com/,France,Paris,Health IoT,Connected health devices
+Ada Health,https://ada.com/,Germany,Berlin,AI Health Assistant,AI-powered health assessment and symptom checker
+Amboss,https://www.amboss.com/,Germany,Berlin,Medical Education,Medical knowledge platform for doctors and students
+Aponeo,https://www.aponeo.de/,Germany,Hamburg,Online Pharmacy,Digital pharmacy and medication delivery
+Brainlab,https://www.brainlab.com/,Germany,Munich,Medical Technology,Software-driven medical technology
+Caresyntax,https://www.caresyntax.com/,Germany,Berlin,Surgical Analytics,Surgical intelligence platform
+Climedo,https://www.climedo.de/,Germany,Munich,Clinical Trials,Digital platform for clinical research
+Clue,https://helloclue.com/,Germany,Berlin,Women's Health,Period tracking and women's health app
+CompuGroup Medical,https://www.cgm.com/,Germany,Koblenz,Health IT,Healthcare information systems
+Cynora,https://www.cynora.com/,Germany,Frankfurt,Medical Devices,OLED materials for medical displays
+Doctolib,https://www.doctolib.de/,Germany,Berlin,Appointment Booking,Online doctor appointment booking platform
+Doctorly,https://www.doctorly.de/,Germany,Berlin,Practice Management,Modern practice management software for doctors
+Ebenbuild,https://www.ebenbuild.com/,Germany,Munich,Bioprinting,3D bioprinting technology
+Heartbeat Medical,https://heartbeat-medical.com/,Germany,Berlin,Surgical Tech,Mixed reality for cardiac surgery planning
+Isar Aerospace,https://www.isaraerospace.com/,Germany,Munich,Healthcare Logistics,Space technology for healthcare delivery
+Kaia Health,https://www.kaiahealth.com/,Germany,Munich,Digital Therapeutics,Digital therapy for back pain and COPD
+Klara,https://www.klara.com/,Germany,Berlin,Telemedicine,Digital health consultations and telemedicine
+Mecuris,https://www.mecuris.com/,Germany,Munich,3D Printing,3D printed prosthetics and orthotics
+Mediteo,https://www.mediteo.com/,Germany,Berlin,Medication Management,Medication reminder and management app
+Medlanes,https://www.medlanes.com/,Germany,Hamburg,Home Care,On-demand home medical visits
+Medloop,https://www.medloop.com/,Germany,Berlin,AI Diagnostics,AI-powered medical diagnosis assistant
+Mimi Hearing,https://www.mimi.io/,Germany,Berlin,Hearing Tech,Digital hearing health solutions
+Mindpeak,https://mindpeak.ai/,Germany,Hamburg,AI Pathology,AI for cancer diagnostics
+Newsenselab,https://www.newsenselab.com/,Germany,Berlin,Biomarkers,Digital biomarker development
+Nia Health,https://www.nia-health.de/,Germany,Berlin,Digital Therapeutics,Digital therapy for chronic skin conditions
+Ottobock,https://www.ottobock.com/,Germany,Duderstadt,Prosthetics,Prosthetics and mobility solutions
+Patientus,https://www.patientus.de/,Germany,Hamburg,Telemedicine,Video consultation platform
+Preventicus,https://www.preventicus.com/,Germany,Jena,Cardiac Monitoring,Mobile heart rhythm analysis
+Quin,https://www.quin.md/,Germany,Frankfurt,Diabetes Tech,AI-powered insulin dosing
+Selfapy,https://www.selfapy.de/,Germany,Berlin,Mental Health,Online psychological support programs
+Sirion Biotech,https://www.sirion-biotech.com/,Germany,Munich,Gene Therapy,Viral vector technologies
+Sonormed,https://www.sonormed.com/,Germany,Hamburg,Tinnitus Therapy,Digital tinnitus therapy
+Sympatient,https://www.sympatient.com/,Germany,Berlin,VR Therapy,Virtual reality therapy for mental health
+Vivira,https://www.vivira.com/,Germany,Berlin,Digital Therapeutics,Digital physiotherapy solutions
+Xbird,https://www.xbird.io/,Germany,Berlin,Clinical Trials,Clinical trial matching platform
+m.Doc,https://www.mdoc.com/,Germany,Munich,Remote Monitoring,Smart medication adherence solutions
+AMCS,https://www.amcsgroup.com/,Ireland,Limerick,Healthcare Waste,Healthcare waste management
+Beats Medical,https://beatsmedical.com/,Ireland,Dublin,Digital Therapeutics,Digital therapy for Parkinson's
+Fire1,https://www.fire1.ie/,Ireland,Dublin,Medical Devices,Novel medical devices
+HealthBeacon,https://www.healthbeacon.com/,Ireland,Dublin,Medication Adherence,Smart sharps disposal
+Nuritas,https://www.nuritas.com/,Ireland,Dublin,AI Peptide Discovery,AI-powered bioactive discovery
+Oneview Healthcare,https://www.oneviewhealthcare.com/,Ireland,Dublin,Patient Experience,Digital patient care platform
+Silvercloud Health,https://www.silvercloudhealth.com/,Ireland,Dublin,Digital Mental Health,Online mental health platform
+Solvit,https://solvit.io/,Ireland,Dublin,Clinical Compliance,Clinical trial compliance
+Wellola,https://www.wellola.com/,Ireland,Dublin,Patient Engagement,Digital patient engagement
+patientMpower,https://www.patientmpower.com/,Ireland,Dublin,Respiratory Health,Digital respiratory care
+Beewize,https://www.beewize.it/,Italy,Milan,Healthcare Analytics,Healthcare data analytics
+Biotechware,https://www.biotechware.com/,Italy,Rome,Cardiac Monitoring,Cardiac telemonitoring
+D-Eye,https://www.d-eyecare.com/,Italy,Padua,Ophthalmology Tech,Smartphone ophthalmoscope
+Empatica,https://www.empatica.com/,Italy,Milan,Wearable Health,Medical wearables for research
+Healthware,https://www.healthware.com/,Italy,Naples,Digital Health Agency,Digital health solutions
+MMI,https://www.mmigroup.eu/,Italy,Florence,Robotic Surgery,Surgical robotics
+Paginemediche,https://www.paginemediche.it/,Italy,Rome,Health Portal,Digital health services platform
+Pharmap,https://www.pharmap.it/,Italy,Milan,Pharmacy Services,Digital pharmacy network
+Telbios,https://www.telbios.com/,Italy,Milan,Remote Monitoring,Telehealth monitoring solutions
+Teseo,https://www.teseotech.com/,Italy,Pisa,Sleep Tech,Sleep monitoring technology
+Castor,https://www.castoredc.com/,Netherlands,Amsterdam,Clinical Trials,Clinical data capture platform
+Kepler Vision,https://www.keplervision.eu/,Netherlands,Amsterdam,AI Elderly Care,Computer vision for elderly care
+Nightwatch,https://www.nightwatch.nl/,Netherlands,Utrecht,Epilepsy Monitoring,Nocturnal seizure detection
+Onera Health,https://www.onerahealth.com/,Netherlands,Eindhoven,Sleep Tech,Clinical-grade sleep diagnostics
+Pharmaoffer,https://pharmaoffer.com/,Netherlands,Utrecht,Pharma Marketplace,B2B pharmaceutical marketplace
+Philips,https://www.philips.com/healthcare,Netherlands,Amsterdam,Medical Devices,Healthcare technology leader
+Quin,https://www.quintech.io/,Netherlands,Amsterdam,Diabetes Tech,AI-powered diabetes management
+Sensara,https://www.sensara.eu/,Netherlands,Utrecht,Senior Care Tech,Lifestyle monitoring for seniors
+SkinVision,https://www.skinvision.com/,Netherlands,Amsterdam,AI Dermatology,Skin cancer detection app
+myTomorrows,https://mytomorrows.com/,Netherlands,Amsterdam,Clinical Trials Access,Expanded access to treatments
+CheckWare,https://www.checkware.com/,Norway,Oslo,Clinical Checklists,Digital clinical checklists
+Confrere,https://confrere.com/,Norway,Oslo,Video Consultation,Video consultation platform
+Csam Health,https://www.csamhealth.com/,Norway,Oslo,Healthcare IT,Connected healthcare solutions
+Dignio,https://dignio.no/,Norway,Oslo,Remote Monitoring,Connected care solutions
+Imatis,https://www.imatis.com/,Norway,Oslo,Healthcare Logistics,Healthcare supply chain
+Medsensio,https://medsensio.com/,Norway,Bergen,Medication Adherence,Smart medication monitoring
+No Isolation,https://www.noisolation.com/,Norway,Oslo,Social Health Tech,Technology against loneliness
+Ortoma,https://ortoma.com/,Norway,Oslo,Surgical Planning,Orthopedic surgery planning
+Picterus,https://www.picterus.com/,Norway,Trondheim,Neonatal Care,Jaundice screening app
+Sensio,https://www.sensio.no/,Norway,Oslo,Elderly Care Tech,Smart senior care
+Aether Biomedical,https://www.aetherbiomedical.com/,Poland,Warsaw,Bionic Prosthetics,Advanced bionic limbs
+Braster,https://www.braster.eu/,Poland,Warsaw,Breast Cancer Detection,Home breast examination device
+Cardiomatics,https://www.cardiomatics.com/,Poland,Krakow,AI Cardiology,AI-powered ECG analysis
+Infermedica,https://infermedica.com/,Poland,Wrocław,AI Symptom Assessment,AI-powered triage and diagnosis
+MedApp,https://www.medapp.pl/,Poland,Krakow,Medical Imaging,3D medical visualization
+MediRatio,https://mediratio.com/,Poland,Warsaw,Pharmacy Automation,Automated pharmacy systems
+Pregnabit,https://www.pregnabit.com/,Poland,Warsaw,Pregnancy Monitoring,Mobile CTG monitoring
+Saventic Health,https://www.saventic.com/,Poland,Warsaw,AI Respiratory,AI for respiratory analysis
+StethoMe,https://www.stethome.com/,Poland,Białystok,AI Auscultation,AI-powered smart stethoscope
+Telemedico,https://www.telemedico.pl/,Poland,Warsaw,Telemedicine,24/7 telemedicine platform
+CUF,https://www.cuf.pt/,Portugal,Lisbon,Digital Hospital,Digital hospital network
+Knok,https://knokcare.com/,Portugal,Porto,Telemedicine,Video medical consultations
+Knokcare,https://knokcare.com/,Portugal,Porto,Home Healthcare,On-demand home healthcare
+Neuralshift,https://www.neuralshift.com/,Portugal,Lisbon,AI Medical Imaging,AI for medical imaging
+Nutrium,https://nutrium.com/,Portugal,Braga,Nutrition Software,Nutrition professional software
+PeekMed,https://www.peekmed.com/,Portugal,Braga,Orthopedic Planning,3D surgical planning
+Sword Health,https://swordhealth.com/,Portugal,Porto,Digital Physical Therapy,AI-powered physical therapy
+Tonic App,https://www.tonicapp.com/,Portugal,Porto,Healthcare Management,Digital health management
+UpHill,https://uphillhealth.com/,Portugal,Lisbon,Medication Adherence,Digital therapy companion
+iLoF,https://ilof.tech/,Portugal,Porto,AI Screening,AI-powered disease screening
+Atlas,https://atlas.app/,Romania,Bucharest,Health App,Personal health assistant
+Dr. Max,https://www.drmax.ro/,Romania,Bucharest,Online Pharmacy,Digital pharmacy chain
+Enevo,https://enevo.ro/,Romania,Bucharest,Medical Devices,Medical device development
+HeartBit,https://heartbit.ro/,Romania,Bucharest,Cardiac Health,Heart health monitoring
+MEDIjobs,https://www.medijobs.ro/,Romania,Bucharest,Healthcare Recruitment,Medical job platform
+MedLife,https://www.medlife.ro/,Romania,Bucharest,Digital Healthcare Network,Healthcare services network
+Medicai,https://www.medicai.io/,Romania,Bucharest,Medical Imaging,Medical imaging platform
+MintMed,https://mintmed.eu/,Romania,Cluj-Napoca,Medical Software,Healthcare management software
+SanoPass,https://www.sanopass.com/,Romania,Bucharest,Health Benefits,Digital health benefits
+Telios Care,https://telioscare.com/,Romania,Bucharest,Elderly Monitoring,Smart elderly monitoring
+IOMED,https://iomed.es/,Spain,Barcelona,Clinical Data,Clinical data extraction platform
+Idoven,https://www.idoven.ai/,Spain,Madrid,AI Cardiology,AI-powered cardiac arrhythmia detection
+Made of Genes,https://www.madeofgenes.com/,Spain,Barcelona,Genomics,Genomic data analysis platform
+Mediktor,https://www.mediktor.com/,Spain,Barcelona,AI Symptom Checker,AI-powered symptom assessment
+Methinks,https://www.methinks.eu/,Spain,Barcelona,AI Stroke Detection,AI for stroke diagnosis
+Psious,https://www.psious.com/,Spain,Barcelona,VR Therapy,Virtual reality for mental health
+Quibim,https://www.quibim.com/,Spain,Valencia,AI Radiology,Imaging biomarkers platform
+Savana,https://www.savanamed.com/,Spain,Madrid,Clinical NLP,Clinical natural language processing
+Tucuvi,https://www.tucuvi.com/,Spain,Madrid,Voice AI Healthcare,Voice-based virtual caregiver
+Universal Doctor,https://www.universaldoctor.com/,Spain,Barcelona,Healthcare Translation,Medical translation tools
+Coala Life,https://www.coalalife.com/,Sweden,Stockholm,Cardiac Monitoring,Smartphone-based heart monitoring
+Doctrin,https://doctrin.se/,Sweden,Stockholm,Digital Triage,Digital patient triage system
+Elekta,https://www.elekta.com/,Sweden,Stockholm,Radiation Therapy,Precision radiation medicine
+KRY,https://www.kry.se/,Sweden,Stockholm,Telemedicine,Digital healthcare provider
+Min Doktor,https://www.mindoktor.se/,Sweden,Stockholm,Telemedicine,Digital doctor consultations
+Natural Cycles,https://www.naturalcycles.com/,Sweden,Stockholm,Women's Health,Digital birth control app
+Ortoma,https://ortoma.com/,Sweden,Gothenburg,Surgical Planning,AI for orthopedic surgery
+Sidekick Health,https://www.sidekickhealth.com/,Sweden,Stockholm,Digital Therapeutics,Gamified health improvement
+Visiba Care,https://www.visibacare.com/,Sweden,Stockholm,E-health Platform,Digital care platform
+Zenicor,https://zenicor.com/,Sweden,Stockholm,Cardiac Monitoring,ECG monitoring solutions
+Ava,https://www.avawomen.com/,Switzerland,Zurich,Women's Health,Fertility tracking bracelet
+DeinDiabetes,https://www.deindiabetes.ch/,Switzerland,Zurich,Diabetes Management,Digital diabetes therapy
+Implantica,https://www.implantica.com/,Switzerland,Zug,Smart Implants,Smart medical implants
+InSphero,https://insphero.com/,Switzerland,Zurich,3D Cell Culture,3D cell culture technology
+Lunaphore,https://lunaphore.com/,Switzerland,Lausanne,Cancer Diagnostics,Next-gen tissue diagnostics
+MindMaze,https://www.mindmaze.com/,Switzerland,Lausanne,Neurorehabilitation,Digital neurotherapeutics
+Oviva,https://oviva.com/,Switzerland,Zurich,Digital Nutrition,Digital diabetes coaching
+Pregnolia,https://www.pregnolia.com/,Switzerland,Zurich,Pregnancy Tech,Preterm birth diagnostics
+Sophia Genetics,https://www.sophiagenetics.com/,Switzerland,Lausanne,AI Genomics,AI-powered genomic analysis
+Tecan,https://www.tecan.com/,Switzerland,Männedorf,Lab Automation,Laboratory automation solutions
+AccuRx,https://www.accurx.com/,United Kingdom,London,Healthcare Communication,Communication platform for NHS
+Babylon Health,https://www.babylonhealth.com/,United Kingdom,London,Telemedicine,AI-powered health services
+BenevolentAI,https://www.benevolent.com/,United Kingdom,London,Drug Discovery,AI drug discovery platform
+Cera,https://www.ceracare.co.uk/,United Kingdom,London,Home Care,Technology-enabled home care
+Echo,https://www.echo.co.uk/,United Kingdom,London,Online Pharmacy,NHS repeat prescription service
+Elvie,https://www.elvie.com/,United Kingdom,London,Women's Health,Women's health technology
+Healx,https://healx.io/,United Kingdom,Cambridge,Drug Discovery,AI for rare disease drug discovery
+Lantum,https://www.lantum.com/,United Kingdom,London,Healthcare Staffing,Healthcare workforce management
+Medopad,https://www.huma.com/,United Kingdom,London,Remote Monitoring,Remote patient monitoring platform
+Mindstrong,https://mindstrong.com/,United Kingdom,London,Mental Health,Digital biomarkers for mental health
+Patchwork Health,https://www.patchwork.health/,United Kingdom,London,Healthcare Staffing,Clinical workforce technology
+Push Doctor,https://www.pushdoctor.co.uk/,United Kingdom,Manchester,Telemedicine,Video GP consultations
+Thriva,https://thriva.co/,United Kingdom,London,Home Testing,At-home blood testing
+Unmind,https://unmind.com/,United Kingdom,London,Mental Health,Workplace mental health platform
+Vitality,https://www.vitality.co.uk/,United Kingdom,London,Health Insurance,Behavioral insurance platform
+Zava,https://www.zavamed.com/uk/,United Kingdom,London,Telemedicine,Online doctor service
