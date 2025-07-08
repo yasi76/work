@@ -1,0 +1,392 @@
+[
+  {
+    "name": "doctorly",
+    "website": "https://www.doctorly.de/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Cloud-based practice management software with AI integration for medical practices",
+    "category": "Electronic Health Records (EHR)",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Roodie Health",
+    "website": "https://www.roodie-health.com/",
+    "location": "Germany",
+    "country": "Germany",
+    "description": "Health navigation platform connecting patients with appropriate healthcare services and digital solutions",
+    "category": "Healthcare Marketplaces",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Digitale Patientenhilfe",
+    "website": "https://digitalepatientenhilfe.de",
+    "location": "Munich",
+    "country": "Germany",
+    "description": "Platform simplifying processes between doctors, patients, manufacturers and insurance companies for digital health applications (DiGA)",
+    "category": "Digital Therapeutics (DTx)",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "CureCurve Medical AI",
+    "website": "https://curecurve.de/",
+    "location": "Germany",
+    "country": "Germany",
+    "description": "AI-powered personalized health solutions for patients, healthcare providers, and pharmaceutical companies",
+    "category": "AI/ML in Healthcare",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Formel Skin",
+    "website": "https://www.formelskin.de/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Teleconsultation and consumer marketplace for dermatology",
+    "category": "Telemedicine/Telehealth",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Virtonomy",
+    "website": "https://www.virtonomy.io/",
+    "location": "Munich",
+    "country": "Germany",
+    "description": "Digital twin technology for medical device development and approval",
+    "category": "Medical Education Tech",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Zava",
+    "website": "https://www.zavamed.com/",
+    "location": "Germany",
+    "country": "Germany",
+    "description": "European telemedicine platform providing online consultations",
+    "category": "Telemedicine/Telehealth",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Heartbeat Medical",
+    "website": "https://heartbeat-med.de/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Platform collecting quality of life data (PROMs) and converting it to Real World Evidence",
+    "category": "Health Analytics",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "DiaMonTech",
+    "website": "https://www.diamontech.de/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Non-invasive glucose monitoring technology",
+    "category": "Healthcare IoT",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Caresyntax",
+    "website": "https://www.caresyntax.com/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "AI-powered surgery platform for improving surgical outcomes",
+    "category": "AI/ML in Healthcare",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Sympatient",
+    "website": "https://www.sympatient.com/",
+    "location": "Germany",
+    "country": "Germany",
+    "description": "Digital therapy solutions for mental health",
+    "category": "Mental Health Tech",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Medloop",
+    "website": "https://www.medloop.com/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Personal health assistant and EHR platform",
+    "category": "Electronic Health Records (EHR)",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Cliniserve",
+    "website": "https://www.cliniserve.de/",
+    "location": "Germany",
+    "country": "Germany",
+    "description": "Digital technologies for nursing processes at hospitals and elderly care facilities",
+    "category": "Senior Care Tech",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Floy",
+    "website": "https://www.floy.com/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "AI-powered radiology diagnostics and holistic health insights",
+    "category": "Digital Diagnostics",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "UniteLabs",
+    "website": "https://www.unitelabs.io/",
+    "location": "Munich",
+    "country": "Germany",
+    "description": "Operating system for AI-driven biotech research",
+    "category": "Research Solutions",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Neoplas med",
+    "website": "https://www.neoplas-med.de/",
+    "location": "Greifswald",
+    "country": "Germany",
+    "description": "High-precision medical technology for physical cold plasma application",
+    "category": "Medical Device",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Omeicos Therapeutics",
+    "website": "https://www.omeicos.com/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Small molecules based on Omega-3 fatty acid metabolites",
+    "category": "Biopharmaceutical",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Hema.to",
+    "website": "https://hema.to/",
+    "location": "Munich",
+    "country": "Germany",
+    "description": "AI-powered blood cancer detection platform",
+    "category": "Digital Diagnostics",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Nuuron",
+    "website": "https://www.nuuron.com/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Digital Alzheimer's therapy based on neuromodulation technology",
+    "category": "Mental Health Tech",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Differential Bio",
+    "website": "https://www.differential.bio/",
+    "location": "Munich",
+    "country": "Germany",
+    "description": "AI-powered virtual scaleup platform to optimize biomanufacturing",
+    "category": "AI/ML in Healthcare",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Lucid Genomics",
+    "website": "https://lucid-genomics.com/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "AI-driven genetic data and insights for faster drug discovery",
+    "category": "Drug Discovery",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "mo:re",
+    "website": "https://more.science/",
+    "location": "Hamburg",
+    "country": "Germany",
+    "description": "Laboratory platform automating 3D cell culture models",
+    "category": "Research Solutions",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Methinks AI",
+    "website": "https://methinks.ai/",
+    "location": "Barcelona",
+    "country": "Spain",
+    "description": "AI medical imaging software for stroke diagnosis from CT scans",
+    "category": "Digital Diagnostics",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Legit.Health",
+    "website": "https://legit.health/",
+    "location": "Bilbao",
+    "country": "Spain",
+    "description": "Computer vision and AI for skin condition diagnosis",
+    "category": "AI/ML in Healthcare",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Mediktor",
+    "website": "https://www.mediktor.com/",
+    "location": "Barcelona",
+    "country": "Spain",
+    "description": "AI-based medical assistant for patient triage and care navigation",
+    "category": "AI/ML in Healthcare",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "humanITcare",
+    "website": "https://www.humanitcare.com/",
+    "location": "Barcelona",
+    "country": "Spain",
+    "description": "AI-driven patient monitoring and data quality improvement platform",
+    "category": "Remote Patient Monitoring",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Quibim",
+    "website": "https://quibim.com/",
+    "location": "Valencia",
+    "country": "Spain",
+    "description": "AI for medical imaging analysis (MRI, CT, PET scans)",
+    "category": "Digital Diagnostics",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "IOMED",
+    "website": "https://iomed.es/",
+    "location": "Barcelona",
+    "country": "Spain",
+    "description": "AI for extracting and managing healthcare data from medical records",
+    "category": "Health Analytics",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Idoven",
+    "website": "https://idoven.ai/",
+    "location": "Madrid",
+    "country": "Spain",
+    "description": "AI-powered ECG interpretation for cardiovascular disease detection",
+    "category": "Digital Diagnostics",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Bioptimus",
+    "website": "https://www.bioptimus.com/",
+    "location": "Paris",
+    "country": "France",
+    "description": "AI foundation model for biology and biotechnology innovation",
+    "category": "AI/ML in Healthcare",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Anima Health",
+    "website": "https://www.animahealth.com/",
+    "location": "London",
+    "country": "United Kingdom",
+    "description": "Digital health platform for personalized care",
+    "category": "Digital Health",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "thymia",
+    "website": "https://www.thymia.ai/",
+    "location": "London",
+    "country": "United Kingdom",
+    "description": "AI-powered mental health assessment platform",
+    "category": "Mental Health Tech",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Biloba",
+    "website": "https://www.biloba.com/",
+    "location": "Paris",
+    "country": "France",
+    "description": "Digital health solutions for patient engagement",
+    "category": "Patient Engagement",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Yazen",
+    "website": "https://www.yazen.se/",
+    "location": "Stockholm",
+    "country": "Sweden",
+    "description": "Digital weight loss clinic with medical support",
+    "category": "Telemedicine/Telehealth",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Cure51",
+    "website": "https://cure51.com/",
+    "location": "Paris",
+    "country": "France",
+    "description": "Bioinformatics platform using computational modeling for oncology therapies",
+    "category": "Drug Discovery",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Sycai Medical",
+    "website": "https://sycai.com/",
+    "location": "Barcelona",
+    "country": "Spain",
+    "description": "AI-powered medical imaging for pancreatic cancer detection",
+    "category": "Digital Diagnostics",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Eucalyptus",
+    "website": "https://www.eucalyptus.vc/",
+    "location": "Amsterdam",
+    "country": "Netherlands",
+    "description": "Digital healthcare company builder",
+    "category": "Digital Health",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Ovo Labs",
+    "website": "https://www.ovo-labs.com/",
+    "location": "Vienna",
+    "country": "Austria",
+    "description": "Therapies for IVF treatments to boost egg quality",
+    "category": "Fertility Tech",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Hello Inside",
+    "website": "https://www.helloinside.com/",
+    "location": "Vienna",
+    "country": "Austria",
+    "description": "Continuous glucose monitoring for metabolic health",
+    "category": "Women's Health Tech",
+    "source": "Curated List",
+    "collected_date": "2025-07-07"
+  }
+]

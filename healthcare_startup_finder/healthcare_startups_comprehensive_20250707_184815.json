@@ -1,0 +1,1012 @@
+[
+  {
+    "name": "Ada Health",
+    "website": "https://ada.com/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "AI-powered health assessment and symptom checker",
+    "category": "AI/ML in Healthcare",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Amboss",
+    "website": "https://www.amboss.com/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Medical knowledge platform for doctors and students",
+    "category": "Medical Education",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Clue",
+    "website": "https://helloclue.com/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Menstrual cycle tracking and women's health app",
+    "category": "Women's Health Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Doctolib",
+    "website": "https://www.doctolib.de/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Online appointment booking platform for healthcare",
+    "category": "Healthcare Marketplaces",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Kry/Livi",
+    "website": "https://www.kry.de/",
+    "location": "Multiple",
+    "country": "Germany",
+    "description": "Digital healthcare provider offering video consultations",
+    "category": "Telemedicine/Telehealth",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Medigo",
+    "website": "https://www.medigo.com/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Medical travel and international patient platform",
+    "category": "Medical Tourism",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Mimi Hearing Technologies",
+    "website": "https://www.mimi.io/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Digital hearing health solutions",
+    "category": "Digital Therapeutics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Ottonova",
+    "website": "https://www.ottonova.de/",
+    "location": "Munich",
+    "country": "Germany",
+    "description": "Digital private health insurance",
+    "category": "InsurTech Health",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Preventicus",
+    "website": "https://www.preventicus.com/",
+    "location": "Jena",
+    "country": "Germany",
+    "description": "Heart rhythm analysis via smartphone",
+    "category": "Digital Diagnostics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Selfapy",
+    "website": "https://www.selfapy.de/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Digital psychological support and therapy",
+    "category": "Mental Health Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Sonormed",
+    "website": "https://www.sonormed.de/",
+    "location": "Hamburg",
+    "country": "Germany",
+    "description": "Tinnitus therapy app",
+    "category": "Digital Therapeutics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Teleclinic",
+    "website": "https://www.teleclinic.com/",
+    "location": "Munich",
+    "country": "Germany",
+    "description": "Telemedicine platform for remote consultations",
+    "category": "Telemedicine/Telehealth",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Thryve",
+    "website": "https://www.thryve.health/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Gut microbiome testing and analysis",
+    "category": "Digital Diagnostics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Vivy",
+    "website": "https://www.vivy.com/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Digital health record and health assistant app",
+    "category": "Electronic Health Records",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Kenkou",
+    "website": "https://www.kenkou.de/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Preventive health check-up platform",
+    "category": "Preventive Health",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Klara",
+    "website": "https://www.klara.com/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Medical practice communication platform",
+    "category": "Practice Management",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Minxli",
+    "website": "https://www.minxli.com/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Mental health platform for youth",
+    "category": "Mental Health Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Neolexon",
+    "website": "https://www.neolexon.de/",
+    "location": "Munich",
+    "country": "Germany",
+    "description": "Speech therapy app for children",
+    "category": "Digital Therapeutics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Oviva",
+    "website": "https://oviva.com/",
+    "location": "Multiple",
+    "country": "Germany",
+    "description": "Digital diabetes and nutrition therapy",
+    "category": "Digital Therapeutics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Patientus",
+    "website": "https://www.patientus.de/",
+    "location": "Munich",
+    "country": "Germany",
+    "description": "Video consultation platform for healthcare providers",
+    "category": "Telemedicine/Telehealth",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Pepperit",
+    "website": "https://www.pepperit.de/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Digital health coaching platform",
+    "category": "Wellness Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Qurasoft",
+    "website": "https://www.qurasoft.de/",
+    "location": "Mannheim",
+    "country": "Germany",
+    "description": "AI-powered medical image analysis",
+    "category": "AI/ML in Healthcare",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Rehappy",
+    "website": "https://www.rehappy.de/",
+    "location": "Heidelberg",
+    "country": "Germany",
+    "description": "Digital therapy for stroke patients",
+    "category": "Digital Therapeutics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "ScienceMatters",
+    "website": "https://www.sciencematters.io/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Scientific publishing platform",
+    "category": "Research Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Smart Reporting",
+    "website": "https://www.smart-reporting.com/",
+    "location": "Munich",
+    "country": "Germany",
+    "description": "Medical reporting software",
+    "category": "Clinical Documentation",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Tinnitracks",
+    "website": "https://www.tinnitracks.com/",
+    "location": "Hamburg",
+    "country": "Germany",
+    "description": "Music-based tinnitus therapy",
+    "category": "Digital Therapeutics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "UrbanSportsClub",
+    "website": "https://urbansportsclub.com/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Corporate wellness and fitness platform",
+    "category": "Corporate Wellness",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Vantis",
+    "website": "https://www.vantis-vascular.com/",
+    "location": "Frankfurt",
+    "country": "Germany",
+    "description": "Vascular surgery planning software",
+    "category": "Surgical Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Wellster",
+    "website": "https://www.wellster.de/",
+    "location": "Munich",
+    "country": "Germany",
+    "description": "Digital health platform for chronic conditions",
+    "category": "Chronic Care Management",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "X-Zell",
+    "website": "https://www.x-zell.com/",
+    "location": "Dresden",
+    "country": "Germany",
+    "description": "Early cancer detection technology",
+    "category": "Digital Diagnostics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Yameda",
+    "website": "https://www.jameda.de/",
+    "location": "Munich",
+    "country": "Germany",
+    "description": "Doctor rating and appointment booking platform",
+    "category": "Healthcare Marketplaces",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Zanadio",
+    "website": "https://www.zanadio.de/",
+    "location": "Hamburg",
+    "country": "Germany",
+    "description": "Digital obesity therapy app",
+    "category": "Digital Therapeutics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Babylon Health",
+    "website": "https://www.babylonhealth.com/",
+    "location": "London",
+    "country": "United Kingdom",
+    "description": "AI-powered health services",
+    "category": "AI/ML in Healthcare",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Benevolent AI",
+    "website": "https://www.benevolent.com/",
+    "location": "London",
+    "country": "United Kingdom",
+    "description": "AI drug discovery platform",
+    "category": "Drug Discovery",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Mindmaze",
+    "website": "https://www.mindmaze.com/",
+    "location": "Lausanne",
+    "country": "Switzerland",
+    "description": "Digital neurotherapeutics",
+    "category": "Digital Therapeutics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "MindPeak",
+    "website": "https://mindpeak.ai/",
+    "location": "Hamburg",
+    "country": "Germany",
+    "description": "AI for pathology diagnostics",
+    "category": "Digital Diagnostics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Sophia Genetics",
+    "website": "https://www.sophiagenetics.com/",
+    "location": "Lausanne",
+    "country": "Switzerland",
+    "description": "AI-powered genomic analysis",
+    "category": "Genomics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Healx",
+    "website": "https://healx.ai/",
+    "location": "Cambridge",
+    "country": "United Kingdom",
+    "description": "AI for rare disease drug discovery",
+    "category": "Drug Discovery",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Lifen",
+    "website": "https://www.lifen.com/",
+    "location": "Paris",
+    "country": "France",
+    "description": "Medical data exchange platform",
+    "category": "Health Data Management",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Docplanner",
+    "website": "https://www.docplanner.com/",
+    "location": "Barcelona",
+    "country": "Spain",
+    "description": "Doctor appointment booking platform",
+    "category": "Healthcare Marketplaces",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Kaia Health",
+    "website": "https://www.kaiahealth.com/",
+    "location": "Munich",
+    "country": "Germany",
+    "description": "Digital therapy for musculoskeletal conditions",
+    "category": "Digital Therapeutics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "MindBeacon",
+    "website": "https://www.mindbeacon.com/",
+    "location": "Toronto",
+    "country": "Canada",
+    "description": "Digital mental health therapy",
+    "category": "Mental Health Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Pear Therapeutics",
+    "website": "https://peartherapeutics.com/",
+    "location": "Boston",
+    "country": "United States",
+    "description": "Prescription digital therapeutics",
+    "category": "Digital Therapeutics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Voluntis",
+    "website": "https://www.voluntis.com/",
+    "location": "Paris",
+    "country": "France",
+    "description": "Digital therapeutics for chronic conditions",
+    "category": "Digital Therapeutics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Withings",
+    "website": "https://www.withings.com/",
+    "location": "Paris",
+    "country": "France",
+    "description": "Connected health devices",
+    "category": "Healthcare IoT",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Minddistrict",
+    "website": "https://www.minddistrict.com/",
+    "location": "Amsterdam",
+    "country": "Netherlands",
+    "description": "E-mental health platform",
+    "category": "Mental Health Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Lanserhof",
+    "website": "https://www.lanserhof.com/",
+    "location": "Innsbruck",
+    "country": "Austria",
+    "description": "Digital health and wellness solutions",
+    "category": "Wellness Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Qure.ai",
+    "website": "https://www.qure.ai/",
+    "location": "Mumbai",
+    "country": "India",
+    "description": "AI for medical imaging",
+    "category": "AI/ML in Healthcare",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Exscientia",
+    "website": "https://www.exscientia.ai/",
+    "location": "Oxford",
+    "country": "United Kingdom",
+    "description": "AI-driven drug discovery",
+    "category": "Drug Discovery",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Push Doctor",
+    "website": "https://www.pushdoctor.co.uk/",
+    "location": "Manchester",
+    "country": "United Kingdom",
+    "description": "Online GP consultation service",
+    "category": "Telemedicine/Telehealth",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Mindable Health",
+    "website": "https://www.mindablehealth.com/",
+    "location": "Barcelona",
+    "country": "Spain",
+    "description": "Digital biomarkers for mental health",
+    "category": "Mental Health Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "MySugr",
+    "website": "https://www.mysugr.com/",
+    "location": "Vienna",
+    "country": "Austria",
+    "description": "Diabetes management app",
+    "category": "Chronic Care Management",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Skin Analytics",
+    "website": "https://www.skinanalytics.co.uk/",
+    "location": "London",
+    "country": "United Kingdom",
+    "description": "AI for skin cancer detection",
+    "category": "Digital Diagnostics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Medbelle",
+    "website": "https://www.medbelle.com/",
+    "location": "London",
+    "country": "United Kingdom",
+    "description": "Digital surgery booking platform",
+    "category": "Healthcare Marketplaces",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Ieso Digital Health",
+    "website": "https://www.iesohealth.com/",
+    "location": "Cambridge",
+    "country": "United Kingdom",
+    "description": "Digital cognitive behavioral therapy",
+    "category": "Mental Health Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Cera",
+    "website": "https://www.ceracare.co.uk/",
+    "location": "London",
+    "country": "United Kingdom",
+    "description": "Digital home care platform",
+    "category": "Home Care Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Vitadio",
+    "website": "https://www.vitadio.com/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Digital diabetes prevention program",
+    "category": "Digital Therapeutics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Medwing",
+    "website": "https://www.medwing.com/",
+    "location": "Berlin",
+    "country": "Germany",
+    "description": "Healthcare professional recruitment platform",
+    "category": "Healthcare HR Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Infermedica",
+    "website": "https://infermedica.com/",
+    "location": "Wrocław",
+    "country": "Poland",
+    "description": "AI-powered symptom checker and triage",
+    "category": "AI/ML in Healthcare",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Doctoralia",
+    "website": "https://www.doctoralia.com/",
+    "location": "Barcelona",
+    "country": "Spain",
+    "description": "Doctor appointment booking and ratings",
+    "category": "Healthcare Marketplaces",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Miiskin",
+    "website": "https://www.miiskin.com/",
+    "location": "Copenhagen",
+    "country": "Denmark",
+    "description": "Skin tracking and melanoma detection app",
+    "category": "Digital Diagnostics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Corti",
+    "website": "https://www.corti.ai/",
+    "location": "Copenhagen",
+    "country": "Denmark",
+    "description": "AI for emergency medical calls",
+    "category": "AI/ML in Healthcare",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Lenus Health",
+    "website": "https://www.lenus.io/",
+    "location": "Dublin",
+    "country": "Ireland",
+    "description": "Digital health coaching platform",
+    "category": "Wellness Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Lumeon",
+    "website": "https://www.lumeon.com/",
+    "location": "London",
+    "country": "United Kingdom",
+    "description": "Care pathway management platform",
+    "category": "Care Coordination",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "KRY",
+    "website": "https://www.kry.se/",
+    "location": "Stockholm",
+    "country": "Sweden",
+    "description": "Digital healthcare provider",
+    "category": "Telemedicine/Telehealth",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Medisafe",
+    "website": "https://www.medisafe.com/",
+    "location": "Haifa",
+    "country": "Israel",
+    "description": "Medication adherence platform",
+    "category": "Medication Management",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Aidoc",
+    "website": "https://www.aidoc.com/",
+    "location": "Tel Aviv",
+    "country": "Israel",
+    "description": "AI for radiology triage",
+    "category": "AI/ML in Healthcare",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Sight Diagnostics",
+    "website": "https://www.sightdx.com/",
+    "location": "Tel Aviv",
+    "country": "Israel",
+    "description": "AI-powered blood diagnostics",
+    "category": "Digital Diagnostics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Tytocare",
+    "website": "https://www.tytocare.com/",
+    "location": "Tel Aviv",
+    "country": "Israel",
+    "description": "Remote examination devices",
+    "category": "Remote Patient Monitoring",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Sweetch",
+    "website": "https://www.sweetch.com/",
+    "location": "Tel Aviv",
+    "country": "Israel",
+    "description": "AI for chronic disease prevention",
+    "category": "Preventive Health",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Kemtai",
+    "website": "https://www.kemtai.com/",
+    "location": "Tel Aviv",
+    "country": "Israel",
+    "description": "AI-powered physiotherapy",
+    "category": "Digital Therapeutics",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Oxehealth",
+    "website": "https://www.oxehealth.com/",
+    "location": "Oxford",
+    "country": "United Kingdom",
+    "description": "Contact-free vital signs monitoring",
+    "category": "Remote Patient Monitoring",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Current Health",
+    "website": "https://currenthealth.com/",
+    "location": "Edinburgh",
+    "country": "United Kingdom",
+    "description": "Remote patient monitoring platform",
+    "category": "Remote Patient Monitoring",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Luminate Medical",
+    "website": "https://www.luminatemedical.com/",
+    "location": "Dublin",
+    "country": "Ireland",
+    "description": "Medical device for chemotherapy hair loss",
+    "category": "Medical Device",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Neurovalens",
+    "website": "https://www.neurovalens.com/",
+    "location": "Belfast",
+    "country": "United Kingdom",
+    "description": "Neurostimulation medical devices",
+    "category": "Medical Device",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Aparito",
+    "website": "https://www.aparito.com/",
+    "location": "Wrexham",
+    "country": "United Kingdom",
+    "description": "Patient-centered data collection",
+    "category": "Clinical Trials Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Huma",
+    "website": "https://www.huma.com/",
+    "location": "London",
+    "country": "United Kingdom",
+    "description": "Digital health platform for research and care",
+    "category": "Digital Health Platform",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Unmind",
+    "website": "https://www.unmind.com/",
+    "location": "London",
+    "country": "United Kingdom",
+    "description": "Workplace mental health platform",
+    "category": "Corporate Wellness",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Patchwork Health",
+    "website": "https://www.patchwork.health/",
+    "location": "London",
+    "country": "United Kingdom",
+    "description": "Healthcare workforce management",
+    "category": "Healthcare HR Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Lantum",
+    "website": "https://www.lantum.com/",
+    "location": "London",
+    "country": "United Kingdom",
+    "description": "GP locum booking platform",
+    "category": "Healthcare HR Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Healthera",
+    "website": "https://www.healthera.co.uk/",
+    "location": "London",
+    "country": "United Kingdom",
+    "description": "Digital pharmacy platform",
+    "category": "Pharmacy Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Echo",
+    "website": "https://www.echo.co.uk/",
+    "location": "London",
+    "country": "United Kingdom",
+    "description": "Online pharmacy and medication delivery",
+    "category": "Pharmacy Tech",
+    "source": "Curated Database",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "69 Best Health Tech Startups in Germany to Watch in 2025",
+    "website": "https://www.seedtable.com/best-health-tech-startups-in-germany",
+    "location": "",
+    "country": "Germany",
+    "description": "The Definitive Seedtable Ranking of Health Tech Startups in Germany We track 71,000+ companies and rank them dynamically using our Seedtable Score - a score that uses quantitative and qualitative data...",
+    "category": "Digital Health",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "48 Top Digital Health Companies in Germany · July 2025",
+    "website": "https://www.f6s.com/companies/digital-health/germany/co",
+    "location": "",
+    "country": "Germany",
+    "description": "Detailed info and reviews on 48 top Digital Health companies and startups in Germany in 2025. Get the latest updates on their products, jobs, funding, investors, founders and more.",
+    "category": "AI/ML in Healthcare",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Top 10 Innovative MedTech Startups Revolutionizing Healthcare in ...",
+    "website": "https://www.zefyron.com/innovative-medTechstartups-revolutionizing-healthcare-in-germany-2024",
+    "location": "",
+    "country": "Germany",
+    "description": "Digital Health Boom: Germany embraces telemedicine, wearables, and health apps, offering convenience, accessibility, and remote health management, propelling the country to the forefront of Digital He...",
+    "category": "AI/ML in Healthcare",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Top 12 HealthTech Startups in Germany",
+    "website": "https://startuprise.co.uk/top-10-healthtech-startups-in-germany/",
+    "location": "",
+    "country": "United Kingdom",
+    "description": "Whether through digital health platforms, remote monitoring tools, or personalized health applications, these startups contribute to the ongoing digital transformation of the healthcare sector, ultima...",
+    "category": "Remote Patient Monitoring",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "10 Digital Health Startups aus Deutschland, die deine ...",
+    "website": "https://www.ottonova.de/digital/digital-health-startups",
+    "location": "",
+    "country": "Germany",
+    "description": "10 Digital Health Startups aus Deutschland, die deine Gesundheit revolutionieren Lange war das Silicon Valley der Maßstab für Innovationen. Inzwischen beweisen auch immer mehr Digital Health Startups ...",
+    "category": "Electronic Health Records",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Diese deutschen Startups wollen das Gesundheitssystem mit ...",
+    "website": "https://omr.com/de/daily/gesundheitssystem-mit-digitalen-innovationen-nach-vorne-bringen",
+    "location": "",
+    "country": "Europe",
+    "description": "Mit dem Health-i Award arbeitet die Techniker Krankenkasse daran, dies zu ändern. Gemeinsam mit dem Handelsblatt werden jährlich Startups ausgezeichnet, die mit digitalen Innovationen das Gesundheitss...",
+    "category": "Digital Health",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Digital health: Europe's most promising startups",
+    "website": "https://sifted.eu/scout/digital-health-q1-2024",
+    "location": "",
+    "country": "Europe",
+    "description": "Europe's most promising early-stage digital health startups as of Q1 2024, scouted and scored by Sifted analysts.",
+    "category": "Digital Health",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Start",
+    "website": "https://healthcare-startups.de/",
+    "location": "",
+    "country": "Germany",
+    "description": "Eudaria von Mirjam Bauer | Juni 20, 2025 | Allgemein, Location, Startup Eudaria ist eine KI-gestützte Software für die strukturierte Dokumentation in der ärztlichen Sprechstunde - direkt aus dem gespr...",
+    "category": "Digital Health",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Sector Highlights: Energy, Health, Fintech, and AI Startups in Germany 2024",
+    "website": "https://www.startuprad.io/post/sector-highlights-energy-health-fintech-and-ai-startups-in-germany-2024",
+    "location": "",
+    "country": "Germany",
+    "description": "The COVID-19 pandemic accelerated the adoption of digital health solutions, and this momentum has continued into 2024. With an aging population and increasing demand for efficient healthcare services,...",
+    "category": "AI/ML in Healthcare",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "CB Insights: Top 50 Digital Health Startups of 2024",
+    "website": "https://www.greaterbayhealthcare.com/post/cb-insights-top-50-digital-health-startups-of-2024",
+    "location": "",
+    "country": "Europe",
+    "description": "Recently, CB Insights announced its \"2024 Top 50 Digital Health Companies\" list, identifying the 50 most promising private digital healthcare companies worldwide based on data signals and proprietary ...",
+    "category": "AI/ML in Healthcare",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "54 Top HealthTech Companies in Germany · July 2025",
+    "website": "https://www.f6s.com/companies/healthtech/germany/co",
+    "location": "",
+    "country": "Germany",
+    "description": "Detailed info and reviews on 54 top HealthTech companies and startups in Germany in 2025. Get the latest updates on their products, jobs, funding, investors, founders and more.",
+    "category": "AI/ML in Healthcare",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Top 44 largest German Healthcare Companies 2025",
+    "website": "https://disfold.com/germany/sector/healthcare/companies/",
+    "location": "",
+    "country": "Germany",
+    "description": "Top 44 largest German Companies in the Healthcare sector by Market Cap This is the list of the largest public listed companies in the Healthcare sector from Germany by market capitalization with links...",
+    "category": "Digital Health",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "List of the 250 largest medical technology companies Germany",
+    "website": "https://www.researchgermany.com/product/medical-technology-companies-germany/",
+    "location": "",
+    "country": "Germany",
+    "description": "Our detailed list of the 250 largest medical technology companies in Germany. Including revenues, employees numbers, contact details, management and more.",
+    "category": "AI/ML in Healthcare",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Top 82 medical and healthcare startups in Germany (June 2025)",
+    "website": "https://www.medicalstartups.org/country/Germany/",
+    "location": "",
+    "country": "Europe",
+    "description": "Ada is a personal health companion that uses AI and machine learning to help people to understand and manage their health. Designed by a team of 100 doctors, data scientists and engineers, Ada was lau...",
+    "category": "AI/ML in Healthcare",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "100 Top Health/Medical Companies in Germany · July 2025",
+    "website": "https://www.f6s.com/companies/health-medical/germany/co",
+    "location": "",
+    "country": "Germany",
+    "description": "Detailed info and reviews on 100 top Health/Medical companies and startups in Germany in 2025. Get the latest updates on their products, jobs, funding, investors, founders and more.",
+    "category": "AI/ML in Healthcare",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "List of top Germany Health Care Companies",
+    "website": "https://www.crunchbase.com/hub/germany-health-care-companies",
+    "location": "",
+    "country": "Germany",
+    "description": "This list of companies and startups in Germany in the health care space provides data on their funding history, investment activities, and acquisition trends. Insights about top trending companies, st...",
+    "category": "Digital Health",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Top 10 Health Care Companies in Germany 2025",
+    "website": "https://www.surfe.com/industries/healthcare/germany/",
+    "location": "",
+    "country": "Germany",
+    "description": "Germany stands as a leader in health care innovation, boasting a robust industry with some of the most renowned companies in the field. These organizations excel in medical technology, pharmaceuticals...",
+    "category": "Drug Discovery",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Top 21 Medical Devices Companies in Germany",
+    "website": "https://www.inven.ai/company-lists/top-21-medical-devices-companies-in-germany",
+    "location": "",
+    "country": "Germany",
+    "description": "Explore innovative medical devices companies in Germany, featuring Biotronik and Karl Storz among the top players shaping healthcare technology.",
+    "category": "Healthcare IoT",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  },
+  {
+    "name": "Code meets care: 20 European HealthTech startups to watch in 2025 and ...",
+    "website": "https://www.eu-startups.com/2025/06/code-meets-care-20-european-healthtech-startups-to-watch-in-2025-and-beyond/",
+    "location": "",
+    "country": "Europe",
+    "description": "A new generation of HealthTech startups is emerging across Europe, redefining how we access, monitor, and manage our wellbeing. By harnessing digital solutions and software-driven technologies, these ...",
+    "category": "AI/ML in Healthcare",
+    "source": "Web Search",
+    "collected_date": "2025-07-07"
+  }
+]
